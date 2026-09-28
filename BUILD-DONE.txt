@@ -1,0 +1,4 @@
+Passing tests: 9 (python -m pytest)
+Local implementation commit: 11658257f01c68081b1e1222212af485ec3bbca8
+
+Built Incident Commander, a standard-library Python CLI that generates fixed fictional incident fixtures, parses logs, alerts, deploys, and commits into cited chronological events, ranks causes with documented deterministic heuristics, proposes rollbacks with diff and migration risk notes, writes Markdown and HTML reports, and appends every CLI invocation to a JSON Lines audit log. The README documents the architecture, quickstart, honesty boundary, and scoring rules. The planted breaking configuration change ranks first, all nine tests pass, and the full fixture-to-report flow was run locally.
