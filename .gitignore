@@ -1,0 +1,13 @@
+in-prompt.txt
+in-launch.py
+in-codex.log
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+ic-audit.jsonl
+ic-state.json
+fixtures/
